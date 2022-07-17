@@ -36,7 +36,7 @@ global.APIKeys = {
 
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
@@ -68,7 +68,7 @@ global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be dis
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "🐼" //ur menu react emoji
-global.themeemoji = "🚶‍♂" //ur theme emoji
+global.themeemoji = "𓃨" //ur theme emoji
 global.packname = "᳆⃞ʀᴇͥᴀͣʟ⃬ͫ🕊️⃕සුද̷්දා''හ්᜴" //ur sticker watermark packname
 global.author = "᳆⃞ʀᴇͥᴀͣʟ⃬ͫ🕊️⃕සුද̷්දා''හ්᜴" //ur sticker watermark author
 
